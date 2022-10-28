@@ -1,4 +1,3 @@
 # Demo
 
-This is the first file in Github!
-Changing/updating
+This is my first project
